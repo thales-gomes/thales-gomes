@@ -1,6 +1,6 @@
 # Full Stack Developer
-**Full Stack Web Developer** && part-time **Master's Engineering Student**, recently graduated from European **1º** Bootcamp - **Le Wagon** - looking for new challenges on Software Engineering/Development.
-I've accumulated professional experience in engineering and technical fields at major companies, like **Otis** Elevator Company, **Rede Globo**, **Olympic Broadcasting Services** and **Siemens**.
+**Full Stack Web Developer** && part-time **Master's Engineering Student**, currently working for **PwC** with Rails and developing personal projects with React.js
+I've accumulated professional experience in engineering and technical fields at major companies, like **Otis** Elevator Company, **Rede Globo**, **Olympic Broadcasting Services**, **Siemens**.
 Based in Portugal, passionate about Coding, Science Books and Classical Piano.
 Stay safe!
 
