@@ -7,5 +7,4 @@ Stay safe!
 
 
 ## My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thales-gomes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thales-gomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
